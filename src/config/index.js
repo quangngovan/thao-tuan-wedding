@@ -6,6 +6,6 @@ export const thanhHonLocation = 'https://goo.gl/maps/ukWfeHJNqCuzH6db8';
 
 export const facebookCoDau = 'https://www.facebook.com/thao.xiteen.39';
 
-export const facebookChuRe = 'https://www.facebook.com/tuans.pham.12';
+export const facebookChuRe = 'https://facebook.com/profile.php';
 
 export const rsvpFormUrl = '';
