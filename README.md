@@ -2,4 +2,4 @@
 
 My wedding invitation
 
-[https://tuan-thao.wedding.vercel.app/](https://tuan-thao.wedding.vercel.app/)
+[https://thao-tuan.wedding.vercel.app/](https://thao-tuan.wedding.vercel.app/)
