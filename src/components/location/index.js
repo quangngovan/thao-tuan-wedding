@@ -48,7 +48,7 @@ const Location = () => {
           </div>
         </div>
         <div className="Ceremony-wrap">
-          <div className="row">
+          <div className="row row-sp">
             <div className="col-lg-7">
               <div className="ceromony-content ceromony-content2">
                 <h3>Tiệc cưới</h3>

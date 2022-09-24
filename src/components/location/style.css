@@ -87,3 +87,9 @@
 .ceromony-content .locationMap {
   margin-top: 20px;
 }
+
+@media (max-width: 992px) {
+  .row-sp {
+    flex-direction: column-reverse;
+  }
+}
