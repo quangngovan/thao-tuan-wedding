@@ -2,6 +2,9 @@
   "name": "my-wedding",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.x"
+  },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "i18next": "^19.8.4",
